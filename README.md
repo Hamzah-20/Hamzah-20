@@ -133,5 +133,3 @@ If you're interested in Artificial Intelligence, Machine Learning, or potential 
 ⭐ Always learning. Always building. Always improving.
 
 </div>
-
-تمام طبعا ديجانغو عندي مشاريع فيه عشان هيك خليتو 
