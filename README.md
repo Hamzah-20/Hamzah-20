@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=835&height=44&lines=Building%20AI%20solutions%20that%20solve%20real-world%20problems.;Building%20production-ready%20AI%20applications" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 I'm a Computer Science graduate passionate about designing intelligent systems that solve real-world problems through Artificial Intelligence.
 
 My work focuses on Machine Learning, Deep Learning, Computer Vision, Explainable AI, and Predictive Analytics.
@@ -26,7 +26,7 @@ My work focuses on Machine Learning, Deep Learning, Computer Vision, Explainable
 
 ---
 
-## 🚀 Featured AI Projects
+##  Featured AI Projects
 
 A selection of AI projects demonstrating my experience in Machine Learning, Deep Learning, Computer Vision, Explainable AI, and Business Intelligence.
 
@@ -77,7 +77,7 @@ ARIMA • Pandas • Plotly • Streamlit
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -102,21 +102,21 @@ ARIMA • Pandas • Plotly • Streamlit
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hamzah-al-basyouni-967122369/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hamzahalbasyouni@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Hamzah-20&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Hamzah-20&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzah-20&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
